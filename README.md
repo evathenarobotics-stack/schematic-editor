@@ -15,3 +15,5 @@ I am still learning how to use KiCad, especially how to choose footprints and ro
 
 Progress
 Right now, I am working on the circuit design and PCB layout. I still need to finish connecting everything, maybe trying out extra code if im feeling up to it, and test the display with the controller. I will add more pictures and updates as I make progress.
+Screenshot 2026-10-28 223440.png
+Screenshot 2026-10-28 235427.png
