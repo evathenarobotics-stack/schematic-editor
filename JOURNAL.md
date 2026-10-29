@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 7.26h | 3 |
+| Week 4 | Tier 1 | 7.68h | 3 |
 
 ## Contents
 
 1. [2026-10-27: Work session](#2026-10-27-work-session)
 2. [2026-10-28: Work session](#2026-10-28-work-session)
-3. [2026-10-29: Work session](#2026-10-29-work-session)
+3. [2026-10-29: Figuring out the instructions and downloading a Module to use for my OLED](#2026-10-29-figuring-out-the-instructions-and-downloading-a-m)
 
 ## Design
 
@@ -32,8 +32,18 @@
 
 [Timelapse](https://lookout.hackclub.com/api/media/19aeae98-1050-448b-bbd2-8dd6c428f91c/video.mp4)
 
-### 2026-10-29: Work session
+### 2026-10-29: Figuring out the instructions and downloading a Module to use for my OLED
 
-**1.08h**
+**1.5h**
 
-[Timelapse](https://lookout.hackclub.com/api/media/61048816-7020-4f3b-b73f-429a91f5b927/video.mp4)
+Figuring out the instructions and downloading a Module to use for my OLED
+I kept searching in the KICAD library and couldn't find the RP2040.
+- When  i finally found the file on GitHub to download, it said the file was inactive and incomplete.
+So i tried the ESPN32 whe in moved on to connecting the pins to the board, i couldn't find some of the pins and was convinced that i had the wrong board. i must have spend at least 20 min going through all of the boards that popped up when i searched the keyword and comparing them to the picture i looked at online.
+then i did the same with all the Raspberry what showed up when i typed in the key words
+-finally i decided to just stick with the standard Raspberry Pi Pico in the KiCad library even if i wasn't sure if it was the right one.
+
+![Screenshot 2026-10-27 205650](https://halflife.hackclub-assets.com/sessions/ZmXvTycYqWZH5tHt3tYbEfQZP7vZEvrx/08f121dbefe488ae6cb2633d1c552fa0afc93ca13eed06e6264c20f8af1f80c1.png)
+First Raspberry PiPico i tried to use
+![Screenshot 2026-10-27 205633](https://halflife.hackclub-assets.com/sessions/ZmXvTycYqWZH5tHt3tYbEfQZP7vZEvrx/d1f0f4c773f8a9611680432b43774b12c2defa478c1a7e916c80a19905ed3935.png)
+Final Raspberry PiPico
