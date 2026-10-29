@@ -44,6 +44,8 @@ So i tried the ESPN32 whe in moved on to connecting the pins to the board, i cou
 then i did the same with all the Raspberry what showed up when i typed in the key words
 -finally i decided to just stick with the standard Raspberry Pi Pico in the KiCad library even if i wasn't sure if it was the right one.
 
+![Screenshot 2026-10-27 230937](https://halflife.hackclub-assets.com/sessions/ZmXvTycYqWZH5tHt3tYbEfQZP7vZEvrx/22b3bde1451deb9e6f838ec94b309ef5d3bcbf791d49675aae0326ebd7ea4b87.png)
+I couldn't figure out which one was right
 ![Screenshot 2026-10-27 205650](https://halflife.hackclub-assets.com/sessions/ZmXvTycYqWZH5tHt3tYbEfQZP7vZEvrx/08f121dbefe488ae6cb2633d1c552fa0afc93ca13eed06e6264c20f8af1f80c1.png)
 First Raspberry PiPico i tried to use
 ![Screenshot 2026-10-27 205633](https://halflife.hackclub-assets.com/sessions/ZmXvTycYqWZH5tHt3tYbEfQZP7vZEvrx/d1f0f4c773f8a9611680432b43774b12c2defa478c1a7e916c80a19905ed3935.png)
